@@ -13,7 +13,6 @@
 
 ---
 
-<h1 align="center">Hi there! 👋 I'm Ahmat Prayoga Sembiring</h1>
 
 <p align="center">
   🎓 Informatics Student at <strong>Institut Teknologi Sumatera (ITERA)</strong> <br>
