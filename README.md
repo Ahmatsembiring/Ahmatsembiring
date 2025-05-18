@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmatprayoga&label=Profile%20views&color=0e75b6&style=flat" alt="ahmatprayoga" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmatsembiring&label=Profile%20views&color=0e75b6&style=flat" alt="ahmatprayoga" />
   <a href="https://www.linkedin.com/in/ahmat-prayoga-sembiring-883a87302"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:ahmatprayoga099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/ahmat_sembiring11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
-
 
 <p align="center">
   🎓 Informatics Student at <strong>Institut Teknologi Sumatera (ITERA)</strong> <br>
@@ -30,31 +29,42 @@ I'm a tech enthusiast from Indonesia, currently exploring the intersection of **
 
 ---
 
-## 🔧 Skills & Technologies
+## 🛠️ Skills & Tech Stack
 
 ### 🌐 Web3 & Blockchain
-- Solidity, Hardhat, Remix
-- Ethereum, Polygon, BSC
-- Web3.js, Ethers.js
-- NFT, Tokenomics, DeFi
+`Solidity` | `Hardhat` | `Remix`  
+`Ethereum` | `Polygon` | `Web3.js` | `Ethers.js` | `NFT` | `Tokenomics`
 
 ### 🔐 Cybersecurity & Pentesting
-- Kali Linux, Burp Suite, OWASP ZAP
-- SQLi, XSS, CSRF, RCE exploitation
-- CTFs, Bug Bounties, OSINT
-- Tools: ffuf, sqlmap, nmap, Metasploit
+`Kali Linux` | `Burp Suite` | `ZAP`  
+`SQLi` | `XSS` | `CSRF` | `ffuf` | `sqlmap` | `nmap` | `Metasploit`
 
-### 💻 Programming & Dev Tools
-- JavaScript, Python, Bash
-- Git, GitHub Actions, Docker
-- Linux-based environments
+### 💻 Languages & Tools
+`JavaScript` | `Python` | `Bash`  
+`Git` | `GitHub Actions` | `Docker` | `Linux Terminal`
 
 ---
 
-## 🚀 My Vision
+## 📊 GitHub Stats
 
-> “Building a secure, decentralized future — one block and one bug at a time.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmatsembiring&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmatsembiring&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
-I'm committed to being a bridge between **Web3 innovation** and **cybersecurity awareness**. My dream is to contribute to open, transparent systems while making sure they remain **resilient against threats**.
+---
 
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahmatsembiring&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Skill Progress
+
+```text
+C++         ████████████████████████████████████████  80%
+Python      ████████████████████████████████████░░░░  75%
+HTML/CSS/JS ████████████████████████░░░░░░░░░░░░░░░░  55%
