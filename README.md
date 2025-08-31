@@ -31,16 +31,12 @@ I'm a tech enthusiast from Indonesia, currently exploring the intersection of **
 
 ## 🛠️ Skills & Tech Stack
 
-### 🌐 Web3 & Blockchain
-`Solidity` | `Hardhat` | `Remix`  
-`Ethereum` | `Polygon` | `Web3.js` | `Ethers.js` | `NFT` | `Tokenomics`
-
 ### 🔐 Cybersecurity & Pentesting
 `Kali Linux` | `Burp Suite` | `ZAP`  
 `SQLi` | `XSS` | `CSRF` | `ffuf` | `sqlmap` | `nmap` | `Metasploit`
 
 ### 💻 Languages & Tools
-`JavaScript` | `Python` | `Bash`  
+`JavaScript` | `Python` | `Java`|`C++`  
 `Git` | `GitHub Actions` | `Docker` | `Linux Terminal`
 
 ---
