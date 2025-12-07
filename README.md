@@ -28,16 +28,11 @@ Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)**, pass
 ### Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel" />
 
-
-
 ### Security & Pentesting
 <img src="https://skillicons.dev/icons?i=kali,linux" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/nmap-0078D4?style=for-the-badge&logoColor=white" />
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,python,cpp,java,solidity,go" />
 
 
 </div>
