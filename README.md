@@ -12,33 +12,98 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)**, passionate about building secure decentralized applications and exploring Web3 technology. I focus on smart contract development, ethical hacking, and contributing to open-source blockchain projects.
 
-## 🛠️ Tech Stack
+---
 
-**Security & Pentesting**  
-`Kali Linux` `Burp Suite` `Metasploit` `nmap` `sqlmap`
+## 💻 Skills
 
-**Languages**  
-`JavaScript` `Python` `C++` `Java` `Solidity`
+<div align="center">
 
-**Tools & Platforms**  
-`Git` `Docker` `Linux` `Ethereum` `Hardhat`
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
-## 📊 GitHub Stats
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel" />
+
+### Blockchain & Web3
+<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+
+### Security & Pentesting
+<img src="https://skillicons.dev/icons?i=kali,linux" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/nmap-0078D4?style=for-the-badge&logoColor=white" />
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,python,cpp,java,solidity,go" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim,postman" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=Ahmatsembiring&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmatsembiring&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
 
-![Streak](https://streak-stats.demolab.com?user=Ahmatsembiring&theme=dark&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmatsembiring&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmatsembiring&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/ahmat-prayoga-sembiring-883a87302">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+        <br><strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:ahmatprayoga099@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email"/>
+        <br><strong>Email</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.instagram.com/ahmat_sembiring11/">
+        <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
+        <br><strong>Instagram</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/Ahmatsembiring">
+        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+        <br><strong>GitHub</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>💡 Open to collaboration on Web3 and cybersecurity projects</sub>
+  
+### 💡 Open to collaboration on Web3 and cybersecurity projects
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmatsembiring&color=58a6ff&style=flat-square)
+
 </div>
