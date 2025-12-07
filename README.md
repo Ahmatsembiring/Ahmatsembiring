@@ -28,10 +28,7 @@ Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)**, pass
 ### Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel" />
 
-### Blockchain & Web3
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+
 
 ### Security & Pentesting
 <img src="https://skillicons.dev/icons?i=kali,linux" />
@@ -42,8 +39,6 @@ Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)**, pass
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=js,python,cpp,java,solidity,go" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim,postman" />
 
 </div>
 
